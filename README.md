@@ -1,29 +1,29 @@
 # SSH Protocol 
 ## Table of Contents
 
-   1.[-Introduction](#Introduction)
+   1.[Introduction](#Introduction)
    
-   2. [- What is SSH?](#What-is-SSH?)
+   2. [What is SSH?](#What-is-SSH?)
     
-   3.[-Basic Concepts](#Basic-Concepts)
+   3.[Basic Concepts](#Basic-Concepts)
    
-   4.[-Steps and Explanations](#Steps-and-Explanations)
+   4.[Steps and Explanations](#Steps-and-Explanations)
    
-   5.[-SSH Connection](#SSH-Connection)
+   5.[SSH Connection](#SSH-Connection)
    
-   6.[-SSH Key Generation](#SSH-Key-Generation)
+   6.[SSH Key Generation](#SSH-Key-Generation)
    
-   7.[- File Transfer via SCP](#File-Transfer-via-SCP)
+   7.[File Transfer via SCP](#File-Transfer-via-SCP)
   
-   8.[- Port Forwarding](#Port-Forwarding)
+   8.[Port Forwarding](#Port-Forwarding)
    
-   9.[- Problems and Solutions](#Problems-and-Solutions)
+   9.[Problems and Solutions](#Problems-and-Solutions)
     
- 10.[-Why is SSH Secure?](#-Why-is-SSH-Secure?)
+ 10.[Why is SSH Secure?](#-Why-is-SSH-Secure?)
    
-   11.[-Conclusion](#Conclusion)
+   11.[Conclusion](#Conclusion)
    
-  12.[-Resources](Resources)
+  12.[Resources](Resources)
 
 ### Introduction
 
