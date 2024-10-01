@@ -47,7 +47,7 @@ Steps and Operations
 
 ### Theoretical Analysis
 
-###Theoretical Analysis
+
 
 The importance of SSH encryption lies in its ability to protect data in transit from interception. By using SSH keys for authentication, security is enhanced by avoiding the transmission of passwords in clear text.
 
