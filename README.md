@@ -3,7 +3,7 @@
 
 -   [Introduction](#introduction)
 -   [Steps and Operations](#steps-and-operations)
--   [Issues Encountered and Solutions](#issues-and-encountered-and-solutions)
+-   [Issues Encountered and Solutions](#issues-encountered-and-solutions)
 -   [Theoretical Analysis](#theoretical-analysis)
 -   [Conclusion](#conclusion)
 -   [Resources](#resources)
