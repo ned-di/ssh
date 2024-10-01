@@ -34,7 +34,7 @@ Steps and Operations
         Command: `ssh -L 8080:localhost:80 mo@192.67.197.104`
         Expected result: Access the local service on port 8080 via the remote server.**
 
-### Issues Encountered and Solutions
+###   Issues Encountered and Solutions
 
 **Wireshark on WSL
     When using Wireshark on WSL, I faced difficulties running the program due to limited access to network interfaces on WSL.**
