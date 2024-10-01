@@ -15,23 +15,23 @@
 Steps and Operations
 
 ###     SSH Connection 
-**Using the ssh mo@192.67.197.104 command to remotely connect to the server via the SSH protocol.
+**Using the `ssh mo@192.67.197.104 `command to remotely connect to the server via the SSH protocol.
         Command: `ssh mo@192.67.197.104 -p 2278`
         Expected result: Secure connection to the remote server.**
 
 ###    SSH Key Generation
 **Generating a public/private key pair for secure authentication.
-        Command: ssh-keygen -t rsa -b 4096
+        Command: `ssh-keygen -t rsa -b `4096
         Expected result: Creation of a 4096-bit RSA key pair.**
 
  **File Transfer via SCP
     Using scp to transfer files between machines.
-        Command: scp file.txt mo@192.67.197.104:/destination/path
+        Command: scp file.txt `mo@192.67.197.104:/destination/path`
         Expected result: File successfully transferred.**
 
    **Port Forwarding
     Using port forwarding to securely access remote services.
-        Command: ssh -L 8080:localhost:80 mo@192.67.197.104
+        Command: `ssh -L 8080:localhost:80 mo@192.67.197.104`
         Expected result: Access the local service on port 8080 via the remote server.**
 
 ### Issues Encountered and Solutions
