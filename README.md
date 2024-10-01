@@ -16,7 +16,7 @@ Steps and Operations
 
 ###     SSH Connection 
 **Using the ssh mo@192.67.197.104 command to remotely connect to the server via the SSH protocol.
-        Command: 'ssh mo@192.67.197.104 -p 2278'
+        Command: `ssh mo@192.67.197.104 -p 2278`
         Expected result: Secure connection to the remote server.**
 
 ###    SSH Key Generation
