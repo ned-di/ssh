@@ -58,8 +58,8 @@ Steps and Operations
 *During network monitoring with Wireshark and Tshark (the command-line version of Wireshark), I was able to capture and analyze SSH packets to verify that the data was properly encrypted, thus ensuring secure transmission.*
 ###Conclusion
 
-*This practical work allowed me to better understand the use and configuration of the SSH protocol to establish secure remote connections. I learned how to generate SSH keys, forward ports, securely transfer files, and resolve network configuration issues.
-Resources*
+*This practical work allowed me to better understand the use and configuration of the SSH protocol to establish secure remote connections. I learned how to generate SSH keys, forward ports, securely transfer files, and resolve network configuration issues.*
+###Resources
 
 -    [Official SSH Documentation](https://www.openssh.com)
 -    [ Wireshark Tutorial](https://www.wireshark.org)
